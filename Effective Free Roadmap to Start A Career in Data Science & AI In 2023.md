@@ -58,6 +58,7 @@ Learning Path (2 Days):
 
 ## 3. Software Development
 Data scientists are software engineers, first and foremost. They may not be coding machine learning models or natural language processing algorithms on a day-to-day basis, but the work they do as data scientists requires software engineering and programming skills to be able to apply all the data science project life cycles on the data.
+
 ![0_S5xAXxnSztWXVMur](https://user-images.githubusercontent.com/72076328/224567869-ab780d92-9c22-4e2b-bdcb-e52391f0c251.jpg)
 
 
@@ -88,4 +89,22 @@ While you can get a job and make tremendous contributions with only machine lear
 * [Software Engineering for Data Scientist Roadmap](https://levelup.gitconnected.com/software-engineering-roadmap-for-data-scientists-1b0fd154de51?sk=d4e9dbb2ad9949a5f7d4bfac558ce2ef)
 * [Efficient Python for Data Scientists](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists)
 
+## 4. Mathematics for Machine Learning & Data Scientist
+
+In the field of machine learning and data science, a strong foundation in mathematics is essential for understanding and implementing advanced algorithms. From linear algebra and multivariate calculus to probability and statistics, there are many different mathematical concepts that are important for success in these fields.
+
+Mathematics is the foundation of machine learning and deep learning algorithms, so it is important to have a strong mathematical background in these areas:
+
+* Linear algebra (vectors, matrices, and various manipulations of them)
+* Probability and statistics (including discrete and continuous probability, standard probability distributions, basic rules such as independence and Bayes’ rule, and hypothesis testing).
+* Basic intuitive understanding of calculus
+In addition, exploratory data analysis (EDA) — using visualizations and other methods to systematically explore a dataset is an underrated skill.
+
+The math needed to do machine learning well has been changing. For instance, although some tasks require calculus, improved automatic differentiation software makes it possible to invent and implement new neural network architectures without doing any calculus. This was almost impossible a decade ago.
+
+### Learning Path: (1 Month )
+* Mathematics for Machine Learning and Data Science Specialization
+Additional Resources:
+* [6 Top University Courses to Learn Mathematics for Machine Learning & Data Science]()
+* [6 Best Books to Learn Mathematics for Data Science & Machine Learning]()
 
