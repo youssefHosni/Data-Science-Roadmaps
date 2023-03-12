@@ -58,6 +58,7 @@ Learning Path (2 Days):
 
 ## 3. Software Development
 Data scientists are software engineers, first and foremost. They may not be coding machine learning models or natural language processing algorithms on a day-to-day basis, but the work they do as data scientists requires software engineering and programming skills to be able to apply all the data science project life cycles on the data.
+![0_S5xAXxnSztWXVMur](https://user-images.githubusercontent.com/72076328/224567869-ab780d92-9c22-4e2b-bdcb-e52391f0c251.jpg)
 
 
 Data scientists should also be able to understand users' needs and develop solutions for those needs, which is essential for any data scientist working in an organization.
@@ -75,16 +76,16 @@ While you can get a job and make tremendous contributions with only machine lear
 
 ### Learning Path (1.5 Month):
 
-* [Python for Everyone Specialization (1 month )]()
-* [Software engineering for data scientists (1 week )]()
-* [Software Engineering Project With Python (1 week)]()
+* [Python for Everyone Specialization (1 month )](https://www.coursera.org/specializations/python)
+* [Software engineering for data scientists (1 week )](https://app.datacamp.com/learn/courses/software-engineering-for-data-scientists-in-python)
+* [Software Engineering Project With Python (1 week)](https://www.javaassignmenthelp.com/blog/python-projects-for-intermediate/)
 * Upload your project on GitHub
 * Publish it on your social media channels
 
 ### Additional Resources:
 
-* [Python for Data Science Roadmap]()
-* [Software Engineering for Data Scientist Roadmap]()
-* [Efficient Python for Data Scientists]()
+* [Python for Data Science Roadmap](https://levelup.gitconnected.com/ultimate-free-python-for-data-science-roadmap-in-2023-728daa9581de?sk=cb99b0bae60f34d4d3a6160053fae087)
+* [Software Engineering for Data Scientist Roadmap](https://levelup.gitconnected.com/software-engineering-roadmap-for-data-scientists-1b0fd154de51?sk=d4e9dbb2ad9949a5f7d4bfac558ce2ef)
+* [Efficient Python for Data Scientists](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists)
 
 
