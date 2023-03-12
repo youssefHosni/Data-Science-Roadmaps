@@ -41,17 +41,50 @@ Data science literacy refers to the ability of an individual to understand and w
 ## 2. Setting up Your Accounts
 Before getting deep into practical and theoretical topics it is important to have your accounts ready. This includes your LinkedIn, medium, and GitHub accounts.
 
+![0_1s47rDeBEZ3Rpw7a](https://user-images.githubusercontent.com/72076328/224566797-0a2e2206-0aa6-48f5-9fb9-a7b82166cc88.jpg)
+
 As you will see in the next steps, you will have to use the mentioned social and professional channels above. They are very important to have a professional account on these social media as they will present your work and will help you build a self-brand and credibility in this field.
 
 In addition to that, you will be able to build very good connections, and you will also be able to follow the news and trends in this field from people in this field. Finally, you will have a professional two-way communication channel with others, whether recruiters will contact you or you can contact people in this field to ask for guidance or advice.
 
 Learning Path (2 Days):
 
-* How to Make a Great Linkedin Profile — TIPS + EXAMPLES
+* [How to Make a Great Linkedin Profile — TIPS + EXAMPLES](https://www.youtube.com/watch?v=zd4ALKv8Das)
 * Create a professional LinkedIn account
-* Next Level GitHub Profile README (NEW 2022)(Markdown template) | Improve Your GitHub profiles
+* [Next Level GitHub Profile README (NEW 2022)(Markdown template) | Improve Your GitHub profiles (https://www.youtube.com/watch?v=G-EGDH50hGE)
 * Create a professional GitHub account
-* How To Create a Medium Account [Step by Step]
+* [How To Create a Medium Account [Step by Step]](https://www.youtube.com/watch?v=jeehpoZBM0M)
 * Create a professional Medium account
+
+## 3. Software Development
+Data scientists are software engineers, first and foremost. They may not be coding machine learning models or natural language processing algorithms on a day-to-day basis, but the work they do as data scientists requires software engineering and programming skills to be able to apply all the data science project life cycles on the data.
+
+
+Data scientists should also be able to understand users' needs and develop solutions for those needs, which is essential for any data scientist working in an organization.
+
+While you can get a job and make tremendous contributions with only machine learning modeling skills, your job opportunities will increase if you can write good software to implement complex AI systems.
+
+### These skills include:
+
+* Programming fundamentals
+* Data structures (especially those that relate to machine learning, such as data frames)
+* Algorithms (including those related to databases and data manipulation),
+* Software design
+* Python essential libraries include TensorFlow or Pytorch, Scikit-learn, Numpy, and Pandas.
+* Version Control
+
+### Learning Path (1.5 Month):
+
+* [Python for Everyone Specialization (1 month )]()
+* [Software engineering for data scientists (1 week )]()
+* [Software Engineering Project With Python (1 week)]()
+* Upload your project on GitHub
+* Publish it on your social media channels
+
+### Additional Resources:
+
+* [Python for Data Science Roadmap]()
+* [Software Engineering for Data Scientist Roadmap]()
+* [Efficient Python for Data Scientists]()
 
 
