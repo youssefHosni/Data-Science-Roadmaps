@@ -1,6 +1,6 @@
 # Data-Science-Roadmaps
 Detailed road maps for important data science topics 
-* [Effective Free Roadmap to Start A Career in Data Science & AI In 2023]()
+* [Effective Free Roadmap to Start A Career in Data Science & AI In 2023](https://github.com/youssefHosni/Data-Science-Roadmaps/blob/main/Effective%20Free%20Roadmap%20to%20Start%20A%20Career%20in%20Data%20Science%20%26%20AI%20In%202023.md)
 * [Ultimate Free Python For Data Science Roadmap In 2023]()
 * [Software Engineering Roadmap For Data Scientists]()
 * [SQL Mastery for Data Scientists: A Comprehensive Guide from Novice to Advanced](https://github.com/youssefHosni/Data-Science-Roadmaps/blob/main/SQL%20Mastery%20for%20Data%20Scientists:%20A%20Comprehensive%20Guide%20from%20Novice%20to%20Advanced.md)
