@@ -17,6 +17,4 @@ I have written an estimated time for each of the learning paths. This time is in
 * Machine Learning Operations & Practical Data Science
 * Prepare For Interviews
 * Closing Remarks
-** 10.1. From Where To Learn?
-** 10.2. Developing Learning Habits
-** 10.3. Avoid Imposter Syndrome
+
